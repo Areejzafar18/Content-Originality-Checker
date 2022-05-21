@@ -1,5 +1,5 @@
 # Content-Originality-Checker
-Text based plagiarism Detection system.
+Text based Plagiarism Detection System.
 
 
 Dataset used:
